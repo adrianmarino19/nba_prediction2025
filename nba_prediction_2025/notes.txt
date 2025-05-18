@@ -1,0 +1,21 @@
+Meaning of each table:
+
+1. game: basic stats. Includes plus-minus as advanced stat.
+2. other_stats: meaninful stats, I should concatenate.
+3. line_score: pts_ot_away?
+4. play_by_play: every single fucking play!
+5. player: simplistic player database.
+6. common_player_info: more basic player info.
+7. team_details: includes links.
+
+
+---
+
+FiveThirtyEight:
+
+* NBA ELOw
+* CARMELO
+* RAPTOR?
+
+nbaelo.csv -> Up to 2025
+nbaw
